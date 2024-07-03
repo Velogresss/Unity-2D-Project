@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Project\\Unity-2D-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37135C3E-BA16-8710-8671-B50DE498E5C2}|Assembly-CSharp.csproj|d:\\unity project\\unity-2d-project\\assets\\scripts\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37135C3E-BA16-8710-8671-B50DE498E5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37135C3E-BA16-8710-8671-B50DE498E5C2}|Assembly-CSharp.csproj|D:\\Unity Project\\Unity-2D-Project\\assets\\scripts\\pipescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37135C3E-BA16-8710-8671-B50DE498E5C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PipeScript.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Unity-2D-Project\\Assets\\Scripts\\PipeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeScript.cs",
+              "ToolTip": "D:\\Unity Project\\Unity-2D-Project\\Assets\\Scripts\\PipeScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:25:18.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Unity-2D-Project\\Assets\\Scripts\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BirdScript.cs",
+              "ToolTip": "D:\\Unity Project\\Unity-2D-Project\\Assets\\Scripts\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BirdScript.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAmwDwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:52:53.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
